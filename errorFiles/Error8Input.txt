@@ -1,0 +1,4 @@
+const x = ;
+begin
+	 x := 6;
+end.

@@ -1,0 +1,3 @@
+
+12. Assignment to constant or procedure is not allowed.
+Compilation process terminating...

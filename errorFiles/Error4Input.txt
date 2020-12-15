@@ -1,0 +1,8 @@
+var x, w;
+begin
+	x := 45;
+	z := 5;
+	read w;
+	if w > x then
+		w:= w + 1;
+end

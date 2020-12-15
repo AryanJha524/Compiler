@@ -1,0 +1,3 @@
+
+11. Undeclared identifier.
+Compilation process terminating...

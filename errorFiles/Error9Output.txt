@@ -1,0 +1,3 @@
+
+23. The preceding factor cannot begin with this symbol.
+Compilation process terminating...

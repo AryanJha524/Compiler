@@ -1,0 +1,3 @@
+
+4. const, var, procedure must be followed by identifier.
+Compilation process terminating...

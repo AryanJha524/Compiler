@@ -1,0 +1,5 @@
+var x;
+while 5
+	x := 6;
+	if x > 5
+end.
