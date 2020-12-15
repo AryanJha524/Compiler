@@ -3,7 +3,7 @@ Please read all the sections before running this program!
 
 HOW TO RUN THIS COMPILER
 -----------------------
-1. Download all the .c and .h files into the same directory and navigate to that directory.
+1. Download all the .c and .h files into the same directory and navigate to that directory (provided in the zip file)
 2. Compile all the .c files with the command ==> "gcc driver.c lex.c parser.c codegen.c virtualmachine.c".
 3. After compilation, to execute run the command ==> "./a.out <input_file_name.txt> <flags>". (BUT WAIT, read the steps below before you do this!)
   3a. <input_file_name.txt> is a REQUIRED field! Please provide the name to the input file here. (Note: the input file must be a .txt extension).
